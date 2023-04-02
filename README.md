@@ -8,6 +8,8 @@ This ensures that the user doesn't have to wait indefinitely for the zipping pro
 
 1. Clone repo
 2. Install [Dotnet SDK (6.0.406) and Runtime (6.0.14)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+3. Copy local.settings.sample.json as local.settings.json
+3. Add Connection String to Azure Storage in local.settings.json
 3. Start the function by using the command - `func host start`
 
 # Test the function locally - 
