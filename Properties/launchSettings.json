@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "async_zip_azure_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7149",
+      "launchBrowser": false
+    }
+  }
+}
