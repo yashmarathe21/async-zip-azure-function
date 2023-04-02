@@ -1,4 +1,4 @@
-# Azure Function to Zip Data and Stream to Responses
+# Azure Function to Zip Data and Stream to Response
 
 This is an Azure Function that zips blobs while simultaneously streaming the output to response.
 Basically, the function doesn't wait for zipping all the blobs and starts streaming the output parallely.
